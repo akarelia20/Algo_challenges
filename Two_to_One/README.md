@@ -3,10 +3,13 @@ Take 2 strings s1 and s2 including only letters from ato z. Return a new sorted 
 Examples:
 
 a = "xyaabbbccccdefww"
+
 b = "xxxxyyyyabklmopq"
+
 longest(a, b) -> "abcdefklmopqwxy"
 
 a = "abcdefghijklmnopqrstuvwxyz"
+
 longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 
 
