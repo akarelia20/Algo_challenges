@@ -9,5 +9,7 @@ a = "abcdefghijklmnopqrstuvwxyz"
 longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 
 
-tryit yourself??
+Want to try it yourself??
+
+
 Go to : https://www.codewars.com/kata/5656b6906de340bd1b0000ac/python
