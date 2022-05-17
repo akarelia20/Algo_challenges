@@ -2,20 +2,20 @@ Complete the solution so that it strips all text that follows any of a set of co
 
 ### Example:
 
-Given an input string of:
+#### Given an input string of:
 
 apples, pears # and bananas
 grapes
 bananas !apples
 
-The output expected would be:
+#### The output expected would be:
 
 apples, pears
 grapes
 bananas
 
-The code would be called like so:
+#### The code would be called like so:
 
 result = solution("apples, pears # and bananas\ngrapes\nbananas !apples", ["#", "!"])
 
-(result should == "apples, pears\ngrapes\nbananas")
+result should == "apples, pears\ngrapes\nbananas"
