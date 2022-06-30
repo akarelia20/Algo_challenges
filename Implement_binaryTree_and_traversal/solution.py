@@ -52,7 +52,7 @@ def preorder_traversal(node):
 
 print(preorder_traversal(tree2))
 
-#*********** Pre-ORDER TRAVERSAL ******************************
+#*********** POST-ORDER TRAVERSAL ******************************
 
 def postorder_traversal(node):
     if node is None:
